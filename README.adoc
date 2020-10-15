@@ -1,3 +1,8 @@
 # altium-materials
 
-Repository of real materials to augment Altium's built-in database
+This is a repository of real materials to augment Altium's built-in database.
+
+Currently it contains
+* Isola 370HR
+* Isola FR408HR
+* Isola I-Tera MT40
